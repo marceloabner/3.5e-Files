@@ -1,0 +1,11 @@
+@font-face {	/* Psycho */
+    font-family	: 'Psycho';
+    src		: url(https://rawcdn.githack.com/5e-Cleric/fonts-/d6be0136e15f23c1d6cfe71eef76d8972120fa23/Xanathar/Psycho%20Killer%20W00%20Regular.woff) format('woff');
+    font-weight	: normal;
+    font-style	: normal;
+}
+
+@font-face { /* Pterra-dactyl*/
+  font-family: 'Pterra';
+  src: url(https://github.com/marceloabner/3.5e-Files/blob/59d74ac6aaec96e90c759fe333a48c4fe540f3b8/Pterra-dactyl.otf) format('opentype');
+}
