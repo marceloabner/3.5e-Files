@@ -16,6 +16,10 @@
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
 }
 
+@font-face { /* Handserif - Free Pterra alternative */
+  font-family: Handserif;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/90184af50353c7bc2125f18b8912ba862cce872c/Handserif.ttf);
+}
 
 /*  Text Style Fonts  -----------------------------------------------------------------  */
 @font-face { /* Celestia Antiqua Standard*/
