@@ -1,26 +1,10 @@
-/*  Cover Style Fonts  ----------------------------------------------------------------  */
-@font-face { /* Vitriol : Internal Titles */
-  font-family: Vitriol;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1d13a5b1528df3ceb2137d5cbdfb92caed3c5ebc/Vitriol%20Regular.woff);
-}
-
-
 /*  Header Style Fonts  ---------------------------------------------------------------  */
 @font-face { /* Pterra-dactyl */
   font-family: Pterra;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
 }
 
-@font-face { /* Pterra-dactyl */
-  font-family: Pterra;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
-}
-
-@font-face { /* Handserif - Free Pterra alternative */
-  font-family: Handserif;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/90184af50353c7bc2125f18b8912ba862cce872c/Handserif.ttf);
-}
-
+/*  -----------------------------------------------------------------------------------  */
 /*  Text Style Fonts  -----------------------------------------------------------------  */
 @font-face { /* Celestia Antiqua Standard*/
   font-family: CelestiaAntiqua;
@@ -45,7 +29,7 @@
 	font-weight: bold;
 }
 
-
+/*  -----------------------------------------------------------------------------------  */
 /*  Table Style Fonts  ----------------------------------------------------------------  */
 @font-face { /* Scala Sans Regular*/
   font-family: ScalaSans;
@@ -70,3 +54,12 @@
 	font-weight: bold;
 	font-style: italic;
 }
+
+/*  -----------------------------------------------------------------------------------  */
+/*  Cover Style Fonts  ----------------------------------------------------------------  */
+@font-face { /* Vitriol : Internal Titles */
+  font-family: Vitriol;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1d13a5b1528df3ceb2137d5cbdfb92caed3c5ebc/Vitriol%20Regular.woff);
+}
+
+
