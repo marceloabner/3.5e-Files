@@ -1,11 +1,68 @@
-@font-face {	/* Psycho */
-    font-family	: 'Psycho';
-    src		: url(https://rawcdn.githack.com/5e-Cleric/fonts-/d6be0136e15f23c1d6cfe71eef76d8972120fa23/Xanathar/Psycho%20Killer%20W00%20Regular.woff) format('woff');
-    font-weight	: normal;
-    font-style	: normal;
+/*  Cover Style Fonts  ----------------------------------------------------------------  */
+@font-face { /* Vitriol : Internal Titles */
+  font-family: Vitriol;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1d13a5b1528df3ceb2137d5cbdfb92caed3c5ebc/Vitriol%20Regular.woff);
 }
 
-@font-face { /* Pterra-dactyl*/
-    font-family : 'Pterra';
-    src     : url(https://raw.githubusercontent.com/marceloabner/3.5e-Files/blob/59d74ac6aaec96e90c759fe333a48c4fe540f3b8/Pterra-dactyl.woff) format('woff');
+
+/*  Header Style Fonts  ---------------------------------------------------------------  */
+@font-face { /* Pterra-dactyl */
+  font-family: Pterra;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
+}
+
+@font-face { /* Pterra-dactyl */
+  font-family: Pterra;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
+}
+
+
+/*  Text Style Fonts  -----------------------------------------------------------------  */
+@font-face { /* Celestia Antiqua Standard*/
+  font-family: CelestiaAntiqua;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1f5f27979a3650a33aead2b51c36d35469a1bf5a/CelestiaAntiquaStd.woff);
+}
+
+@font-face { /* Celestia Antiqua Italic*/
+  font-family: CelestiaAntiqua;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1f5f27979a3650a33aead2b51c36d35469a1bf5a/CelestiaAntiquaStd-Italic.woff);
+	font-style: italic;
+}
+
+@font-face { /* Celestia Antiqua Bold ----  muito forte, substituir pela Semi-Bold*/
+  font-family: CelestiaAntiqua;
+  src: url(htt ps://rawcdn.githack.com/marceloabner/3.5e-Files/1f5f27979a3650a33aead2b51c36d35469a1bf5a/CelestiaAntiquaStd-Bold.woff);
+	font-weight: bold;
+}
+
+@font-face { /* Celestia Antiqua Semi-Bold*/
+  font-family: CelestiaAntiqua;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/0851df519628727ce8262ca7dcde0755c568f4c3/CelestiaAntiqua-Semibold.woff);
+	font-weight: bold;
+}
+
+
+/*  Table Style Fonts  ----------------------------------------------------------------  */
+@font-face { /* Scala Sans Regular*/
+  font-family: ScalaSans;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/97d3ba3888f5096b95f84971d2d341b5a8208cff/Scala-Sans-LF.woff);
+}
+
+@font-face { /* Scala Sans Italic*/
+  font-family: ScalaSans;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/97d3ba3888f5096b95f84971d2d341b5a8208cff/Scala-Sans-LF-Italic.woff);
+	font-style: italic;
+}
+
+@font-face { /* Scala Sans Bold*/
+  font-family: ScalaSans;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/97d3ba3888f5096b95f84971d2d341b5a8208cff/Scala-Sans-LF-Bold.woff);
+	font-weight: bold;
+}
+
+@font-face { /* Scala Sans Bold Italic*/
+  font-family: ScalaSans;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/97d3ba3888f5096b95f84971d2d341b5a8208cff/Scala-Sans-LF-Bold-Italic.woff);
+	font-weight: bold;
+	font-style: italic;
 }
