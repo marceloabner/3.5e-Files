@@ -62,4 +62,7 @@
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1d13a5b1528df3ceb2137d5cbdfb92caed3c5ebc/Vitriol%20Regular.woff);
 }
 
-
+@font-face { /* Wolftrack : Cover Title */
+  font-family: Wolftrack;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/62d395703f9c9e1c8af75cceae1b864001da2f0c/Wolftrack%20W01%20Regular.ttf);
+}
