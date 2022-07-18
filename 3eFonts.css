@@ -66,3 +66,29 @@
   font-family: Wolftrack;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/62d395703f9c9e1c8af75cceae1b864001da2f0c/Wolftrack%20W01%20Regular.ttf) format(truetype);
 }
+
+/*  -----------------------------------------------------------------------------------  */
+/*  Planescape Fonts - ----------------------------------------------------------------  */
+@font-face { /* Exocet Heavy : Planescape Titles */
+  font-family: Exocet;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/ExocetHeavy.woff);
+}
+
+@font-face { /* Rotis Serif */
+  font-family: RotisSerif;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif.woff);
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face { /* Rotis Serif - Bold */
+  font-family: RotisSerif;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif-Bold.woff);
+	font-weight: bold;
+}
+
+@font-face { /* Rotis Serif - Italic */
+  font-family: RotisSerif;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif-Italic.woff);
+	font-style: italic;
+}
