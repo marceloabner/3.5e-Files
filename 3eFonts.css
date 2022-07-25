@@ -77,8 +77,6 @@
 @font-face { /* Rotis Serif */
   font-family: RotisSerif;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif.woff);
-	font-weight: bold;
-	font-style: italic;
 }
 
 @font-face { /* Rotis Serif - Bold */
