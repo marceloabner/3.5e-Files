@@ -97,3 +97,20 @@
   font-family: Democratica;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/946a1d486ab15f124eb6760a805bd3a4024e3937/Democratica.woff);
 }
+
+@font-face { /* FR Fell Type : Forgotten Realms Text */
+  font-family: FellType;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeRoman.woff);
+}
+
+@font-face { /* FR Fell Type : Forgotten Realms Text */
+  font-family: FellType;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeItalic.woff);
+  font-style: italic;
+}
+
+@font-face { /* FR Fell Type : Forgotten Realms Text */
+  font-family: FellType;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeRoman.woff);
+  font-weight: bold;
+}
