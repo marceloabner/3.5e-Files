@@ -97,3 +97,8 @@
   font-family: Democratica;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/d1d4a4461f766fec5e9db27bcf1990e454672d2a/Democratica.woff2);
 }
+
+@font-face { /* Democratica : Forgotten Realms Title */
+  font-family: Democ;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/d45329047f19f002a78a1f9107e29912afe5cff7/Democratica.woff);
+}
