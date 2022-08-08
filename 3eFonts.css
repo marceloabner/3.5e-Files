@@ -62,11 +62,6 @@
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/1d13a5b1528df3ceb2137d5cbdfb92caed3c5ebc/Vitriol%20Regular.woff);
 }
 
-@font-face { /* Wolftrack : Cover Title */
-  font-family: Wolftrack;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/62d395703f9c9e1c8af75cceae1b864001da2f0c/Wolftrack%20W01%20Regular.ttf) format(truetype);
-}
-
 /*  -----------------------------------------------------------------------------------  */
 /*  Planescape Fonts  -----------------------------------------------------------------  */
 @font-face { /* Exocet Heavy : Planescape Titles */
@@ -95,22 +90,29 @@
 /*  Forgotten Realms  -----------------------------------------------------------------  */
 @font-face { /* Democratica : Forgotten Realms Title */
   font-family: Democratica;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/946a1d486ab15f124eb6760a805bd3a4024e3937/Democratica.woff);
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/d45329047f19f002a78a1f9107e29912afe5cff7/Democratica.woff);
 }
 
 @font-face { /* FR Fell Type : Forgotten Realms Text */
   font-family: FellType;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeRoman.woff);
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/fece224d0bdf5873068a8c3c9308322449a640d2/IM_FELL_DW_Pica_Roman.woff);
 }
 
 @font-face { /* FR Fell Type : Forgotten Realms Text */
   font-family: FellType;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeItalic.woff);
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/fece224d0bdf5873068a8c3c9308322449a640d2/IM_FELL_Double_Pica_Italic.woff);
   font-style: italic;
 }
 
 @font-face { /* FR Fell Type : Forgotten Realms Text */
   font-family: FellType;
-  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/81c8f028193836e06d49f271cc4f124ed3c0a9bb/Historical-FellTypeRoman.woff);
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/b1106bbfcd0e39b234f75c1cc3b4c433d42d0694/LetterpressText%20W00%20Bold.woff);
+  font-weight: bold;
+}
+
+@font-face { /* FR Fell Type : Forgotten Realms Text */
+  font-family: FellType;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/fece224d0bdf5873068a8c3c9308322449a640d2/IM_FELL_DW_Pica_Italic.woff);
+  font-style: italic;
   font-weight: bold;
 }
