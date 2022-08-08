@@ -4,6 +4,12 @@
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/f19242d8de8188665600532849ec1623ca4b3cd5/Pterra-dactyl.woff);
 }
 
+@font-face { /* Personal Custom Font */
+  font-family: 3eCustomFont;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/77b2a59aea615e7849ec6a16559a5390c8054242/3efont-Regular.woff);
+}
+
+
 /*  -----------------------------------------------------------------------------------  */
 /*  Text Style Fonts  -----------------------------------------------------------------  */
 @font-face { /* Celestia Antiqua Standard*/
