@@ -68,7 +68,7 @@
 }
 
 /*  -----------------------------------------------------------------------------------  */
-/*  Planescape Fonts - ----------------------------------------------------------------  */
+/*  Planescape Fonts  -----------------------------------------------------------------  */
 @font-face { /* Exocet Heavy : Planescape Titles */
   font-family: Exocet;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/ExocetHeavy.woff);
@@ -82,11 +82,24 @@
 @font-face { /* Rotis Serif - Bold */
   font-family: RotisSerif;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif-Bold.woff);
-	font-weight: bold;
+  font-weight: bold;
 }
 
 @font-face { /* Rotis Serif - Italic */
   font-family: RotisSerif;
   src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/7067449fb4f7897bb2ecdf5ebad65d7424a4b924/RotisSerif-Italic.woff);
-	font-style: italic;
+  font-style: italic;
+}
+
+/*  -----------------------------------------------------------------------------------  */
+/*  Forgotten Realms  -----------------------------------------------------------------  */
+@font-face { /* Democratica : Forgotten Realms Title */
+  font-family: Democratica;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/b1db64994d3a6cba6fb21f1fa98b13d5ac81c171/Democratica.woff);
+}
+
+@font-face { /* Democratica : Forgotten Realms Title */
+  font-family: Democratica;
+  src: url(https://rawcdn.githack.com/marceloabner/3.5e-Files/b1db64994d3a6cba6fb21f1fa98b13d5ac81c171/Democratica-Bold.woff);
+  font-weight: bold;
 }
